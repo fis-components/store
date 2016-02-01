@@ -1,0 +1,10 @@
+{
+    "name": "store",
+    "description": "A localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood",
+    "repos": "https://github.com/marcuswestin/store.js.git",
+    "main": "store",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.3.17"
+}
